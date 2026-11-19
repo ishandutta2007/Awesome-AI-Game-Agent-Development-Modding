@@ -26,7 +26,7 @@
 - [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
-  - [Top Projects (Ranked by GitHub Stars)](#top-projects-ranked-by-github-stars)
+  - [Top Projects (Ranked by GitHub_Stars)](#top-projects-ranked-by-github-stars)
   - [Recommended Tech Stack Recipes](#recommended-tech-stack-recipes)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [💖 Support & Sponsorship](#-support--sponsorship)
@@ -61,92 +61,92 @@ The sector remains **moderately fragmented**: core developer runtimes, pathfindi
 
 ## 💻 Open-Source GitHub Projects
 
-### Top Projects (Ranked by GitHub Stars)
+### Top Projects (Ranked by GitHub_Stars)
 
 The following repositories form the bedrock of AI game agent development, modding toolchains, simulation benchmarks, and high-performance server architectures. Repositories are ranked in descending order by GitHub stargazers count:
 
-1. **[Godot Engine](https://github.com/godotengine/godot)** [![GitHub stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers) 🎮  
+1. **[Godot Engine](https://github.com/godotengine/godot)** [![GitHub_Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers) 🎮  
    *Feature-packed, multi-platform 2D and 3D open-source game engine (`MIT`). Prized for its lightweight architecture, Python-like GDScript, C# support, and rapid integration with local AI agents, LLM copilot plugins, and reinforcement learning environments.*
 
-2. **[Bevy Engine](https://github.com/bevyengine/bevy)** [![GitHub stars](https://img.shields.io/github/stars/bevyengine/bevy?style=social&color=white)](https://github.com/bevyengine/bevy/stargazers) 🦀  
+2. **[Bevy Engine](https://github.com/bevyengine/bevy)** [![GitHub_Stars](https://img.shields.io/github/stars/bevyengine/bevy?style=social&color=white)](https://github.com/bevyengine/bevy/stargazers) 🦀  
    *A refreshingly simple, data-driven game engine built in Rust (`MIT` / `Apache-2.0`). Features an ultra-fast Entity Component System (ECS) ideally suited for highly concurrent, memory-safe multi-agent simulation and AI systems.*
 
-3. **[Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)** [![GitHub stars](https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social&color=white)](https://github.com/Unity-Technologies/ml-agents/stargazers) 🧠  
+3. **[Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)** [![GitHub_Stars](https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social&color=white)](https://github.com/Unity-Technologies/ml-agents/stargazers) 🧠  
    *Open-source toolkit (`Apache-2.0`) enabling games and simulations built with Unity to serve as environments for training intelligent agents via deep reinforcement learning, imitation learning, and evolutionary algorithms with Python PyTorch bindings.*
 
-4. **[Farama Gymnasium](https://github.com/Farama-Foundation/Gymnasium)** [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social&color=white)](https://github.com/Farama-Foundation/Gymnasium/stargazers) 🏋️  
+4. **[Farama Gymnasium](https://github.com/Farama-Foundation/Gymnasium)** [![GitHub_Stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social&color=white)](https://github.com/Farama-Foundation/Gymnasium/stargazers) 🏋️  
    *The standard open-source (`MIT`) Python interface for single-agent reinforcement learning environments (maintained fork of OpenAI Gym). Foundation for benchmarking game-playing AI agents across classic, arcade, and 3D simulation domains.*
 
-5. **[PaperMC Paper](https://github.com/PaperMC/Paper)** [![GitHub stars](https://img.shields.io/github/stars/PaperMC/Paper?style=social&color=white)](https://github.com/PaperMC/Paper/stargazers) 📜  
+5. **[PaperMC Paper](https://github.com/PaperMC/Paper)** [![GitHub_Stars](https://img.shields.io/github/stars/PaperMC/Paper?style=social&color=white)](https://github.com/PaperMC/Paper/stargazers) 📜  
    *High-performance open-source (`GPL-3.0`) Minecraft server software forked from Spigot. Features asynchronous chunk loading, optimized tick loops, anti-exploit protections, and full Bukkit/Spigot/Paper plugin support for hosting AI agent sandboxes.*
 
-6. **[Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)** [![GitHub stars](https://img.shields.io/github/stars/PrismLauncher/PrismLauncher?style=social&color=white)](https://github.com/PrismLauncher/PrismLauncher/stargazers) 💎  
+6. **[Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)** [![GitHub_Stars](https://img.shields.io/github/stars/PrismLauncher/PrismLauncher?style=social&color=white)](https://github.com/PrismLauncher/PrismLauncher/stargazers) 💎  
    *Custom open-source (`GPL-3.0`) Minecraft launcher with isolated instance management, native Modrinth and CurseForge modpack integration, and multi-Java runtime handling across Linux, Windows, and macOS.*
 
-7. **[Baritone](https://github.com/cabaletta/baritone)** [![GitHub stars](https://img.shields.io/github/stars/cabaletta/baritone?style=social&color=white)](https://github.com/cabaletta/baritone/stargazers) 🧭  
+7. **[Baritone](https://github.com/cabaletta/baritone)** [![GitHub_Stars](https://img.shields.io/github/stars/cabaletta/baritone?style=social&color=white)](https://github.com/cabaletta/baritone/stargazers) 🧭  
    *Ultra-fast, deterministic pathfinding and world-traversal bot system written in Java (`LGPL-3.0`). Employs modified A* search algorithms to navigate, break, place, and mine blocks; frequently utilized as the movement backbone for higher-level AI agents.*
 
-8. **[Mineflayer](https://github.com/PrismarineJS/mineflayer)** [![GitHub stars](https://img.shields.io/github/stars/PrismarineJS/mineflayer?style=social&color=white)](https://github.com/PrismarineJS/mineflayer/stargazers) 🤖  
+8. **[Mineflayer](https://github.com/PrismarineJS/mineflayer)** [![GitHub_Stars](https://img.shields.io/github/stars/PrismarineJS/mineflayer?style=social&color=white)](https://github.com/PrismarineJS/mineflayer/stargazers) 🤖  
    *Foundational open-source (`MIT`) JavaScript and TypeScript library for building headless, programmable Minecraft bots. Provides comprehensive abstractions for inventory management, crafting, physics, entity tracking, combat, and block interactions.*
 
-9. **[Voyager](https://github.com/MineDojo/Voyager)** [![GitHub stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social&color=white)](https://github.com/MineDojo/Voyager/stargazers) 🚀  
+9. **[Voyager](https://github.com/MineDojo/Voyager)** [![GitHub_Stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social&color=white)](https://github.com/MineDojo/Voyager/stargazers) 🚀  
    *Landmark open-source (`MIT`) embodied lifelong learning agent powered by GPT-4 in Minecraft. Continuously explores the world, autonomously writes, debugs, and stores Mineflayer JavaScript skills in a vector library, and accomplishes complex milestones without human intervention.*
 
-10. **[Mindcraft](https://github.com/mindcraft-bots/mindcraft)** [![GitHub stars](https://img.shields.io/github/stars/mindcraft-bots/mindcraft?style=social&color=white)](https://github.com/mindcraft-bots/mindcraft/stargazers) 💬  
+10. **[Mindcraft](https://github.com/mindcraft-bots/mindcraft)** [![GitHub_Stars](https://img.shields.io/github/stars/mindcraft-bots/mindcraft?style=social&color=white)](https://github.com/mindcraft-bots/mindcraft/stargazers) 💬  
     *Collaborative open-source (`MIT`) LLM-driven Minecraft agent framework powered by Mineflayer. Connects to OpenAI, Anthropic Claude, Google Gemini, and local Ollama models with persistent memory and interactive voice/chat dialogues.*
 
-11. **[Geyser](https://github.com/GeyserMC/Geyser)** [![GitHub stars](https://img.shields.io/github/stars/GeyserMC/Geyser?style=social&color=white)](https://github.com/GeyserMC/Geyser/stargazers) 🌉  
+11. **[Geyser](https://github.com/GeyserMC/Geyser)** [![GitHub_Stars](https://img.shields.io/github/stars/GeyserMC/Geyser?style=social&color=white)](https://github.com/GeyserMC/Geyser/stargazers) 🌉  
     *A bridge proxy enabling Bedrock edition clients and mobile/cross-platform agents to seamlessly connect to Minecraft Java edition servers (`CC0-1.0`). Essential for multi-platform game agent deployments.*
 
-12. **[PaperMC Folia](https://github.com/PaperMC/Folia)** [![GitHub stars](https://img.shields.io/github/stars/PaperMC/Folia?style=social&color=white)](https://github.com/PaperMC/Folia/stargazers) ⚡  
+12. **[PaperMC Folia](https://github.com/PaperMC/Folia)** [![GitHub_Stars](https://img.shields.io/github/stars/PaperMC/Folia?style=social&color=white)](https://github.com/PaperMC/Folia/stargazers) ⚡  
     *A modernized fork of PaperMC (`GPL-3.0`) that adds regionized multithreading to Minecraft. Allows separate world areas to run independently in parallel threads, unlocking massively scaled multiplayer worlds and thousands of simultaneous AI bot agents.*
 
-13. **[Project Malmo](https://github.com/microsoft/malmo)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/malmo?style=social&color=white)](https://github.com/microsoft/malmo/stargazers) 🔬  
+13. **[Project Malmo](https://github.com/microsoft/malmo)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/malmo?style=social&color=white)](https://github.com/microsoft/malmo/stargazers) 🔬  
     *Pioneering open-source (`MIT`) AI experimentation platform developed by Microsoft Research. Built on Minecraft modding hooks to support deep reinforcement learning, computer vision, and cognitive research.*
 
-14. **[Farama PettingZoo](https://github.com/Farama-Foundation/PettingZoo)** [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/PettingZoo?style=social&color=white)](https://github.com/Farama-Foundation/PettingZoo/stargazers) 🐾  
+14. **[Farama PettingZoo](https://github.com/Farama-Foundation/PettingZoo)** [![GitHub_Stars](https://img.shields.io/github/stars/Farama-Foundation/PettingZoo?style=social&color=white)](https://github.com/Farama-Foundation/PettingZoo/stargazers) 🐾  
     *Multi-agent reinforcement learning (MARL) standard interface (`MIT`) from Farama Foundation (the multi-agent equivalent of Gymnasium). Facilitates competitive, cooperative, and mixed agent experiments.*
 
-15. **[FabricMC](https://github.com/FabricMC/fabric)** [![GitHub stars](https://img.shields.io/github/stars/FabricMC/fabric?style=social&color=white)](https://github.com/FabricMC/fabric/stargazers) 🧵  
+15. **[FabricMC](https://github.com/FabricMC/fabric)** [![GitHub_Stars](https://img.shields.io/github/stars/FabricMC/fabric?style=social&color=white)](https://github.com/FabricMC/fabric/stargazers) 🧵  
     *Lightweight, highly modular Minecraft modding toolchain and loader (`Apache-2.0`). Prized for near-instant snapshot releases, clean Mixin bytecode manipulation, and client/server-side agent instrumentation.*
 
-16. **[Modrinth App / Theseus](https://github.com/modrinth/code)** [![GitHub stars](https://img.shields.io/github/stars/modrinth/code?style=social&color=white)](https://github.com/modrinth/code/stargazers) 📦  
+16. **[Modrinth App / Theseus](https://github.com/modrinth/code)** [![GitHub_Stars](https://img.shields.io/github/stars/modrinth/code?style=social&color=white)](https://github.com/modrinth/code/stargazers) 📦  
     *Unified open-source monorepo (`GPL-3.0`) containing the frontend, high-performance Rust desktop launcher, and microservices for the Modrinth modding ecosystem.*
 
-17. **[Purpur](https://github.com/PurpurMC/Purpur)** [![GitHub stars](https://img.shields.io/github/stars/PurpurMC/Purpur?style=social&color=white)](https://github.com/PurpurMC/Purpur/stargazers) 🔮  
+17. **[Purpur](https://github.com/PurpurMC/Purpur)** [![GitHub_Stars](https://img.shields.io/github/stars/PurpurMC/Purpur?style=social&color=white)](https://github.com/PurpurMC/Purpur/stargazers) 🔮  
     *Drop-in replacement for PaperMC (`MIT`) designed for extreme gameplay configurability, custom entity mob attributes, and optimized performance for high-density bot simulations.*
 
-18. **[PaperMC Velocity](https://github.com/PaperMC/Velocity)** [![GitHub stars](https://img.shields.io/github/stars/PaperMC/Velocity?style=social&color=white)](https://github.com/PaperMC/Velocity/stargazers) 🚀  
+18. **[PaperMC Velocity](https://github.com/PaperMC/Velocity)** [![GitHub_Stars](https://img.shields.io/github/stars/PaperMC/Velocity?style=social&color=white)](https://github.com/PaperMC/Velocity/stargazers) 🚀  
     *Next-generation, high-performance Minecraft proxy server (`GPL-3.0`) designed to route players and autonomous bots across clusters of backend server instances with optimal throughput.*
 
-19. **[MineDojo](https://github.com/MineDojo/MineDojo)** [![GitHub stars](https://img.shields.io/github/stars/MineDojo/MineDojo?style=social&color=white)](https://github.com/MineDojo/MineDojo/stargazers) 🥋  
+19. **[MineDojo](https://github.com/MineDojo/MineDojo)** [![GitHub_Stars](https://img.shields.io/github/stars/MineDojo/MineDojo?style=social&color=white)](https://github.com/MineDojo/MineDojo/stargazers) 🥋  
     *Award-winning embodied AI research suite (`MIT`) built on Minecraft. Features thousands of benchmark tasks, extensive multimodal internet knowledge bases (YouTube, Wiki, Reddit), and MineCLIP pretrained vision-language models.*
 
-20. **[NeoForge](https://github.com/neoforged/NeoForge)** [![GitHub stars](https://img.shields.io/github/stars/neoforged/NeoForge?style=social&color=white)](https://github.com/neoforged/NeoForge/stargazers) 🔨  
+20. **[NeoForge](https://github.com/neoforged/NeoForge)** [![GitHub_Stars](https://img.shields.io/github/stars/neoforged/NeoForge?style=social&color=white)](https://github.com/neoforged/NeoForge/stargazers) 🔨  
     *Community-driven fork of Minecraft Forge (`LGPL-2.1`) providing a modernized, highly compatible modding API, event pipeline, and tooling for large-scale content and gameplay modification.*
 
-21. **[Ferium](https://github.com/gorilla-devs/ferium)** [![GitHub stars](https://img.shields.io/github/stars/gorilla-devs/ferium?style=social&color=white)](https://github.com/gorilla-devs/ferium/stargazers) ⚡  
+21. **[Ferium](https://github.com/gorilla-devs/ferium)** [![GitHub_Stars](https://img.shields.io/github/stars/gorilla-devs/ferium?style=social&color=white)](https://github.com/gorilla-devs/ferium/stargazers) ⚡  
     *Fast, multi-threaded CLI mod manager written in Rust (`GPL-3.0`). Automatically resolves, verifies, and downloads mods from Modrinth, CurseForge, and GitHub Releases.*
 
-22. **[blendi-remade/agentcraft](https://github.com/blendi-remade/agentcraft)** [![GitHub stars](https://img.shields.io/github/stars/blendi-remade/agentcraft?style=social&color=white)](https://github.com/blendi-remade/agentcraft/stargazers) 🛡️  
+22. **[blendi-remade/agentcraft](https://github.com/blendi-remade/agentcraft)** [![GitHub_Stars](https://img.shields.io/github/stars/blendi-remade/agentcraft?style=social&color=white)](https://github.com/blendi-remade/agentcraft/stargazers) 🛡️  
     *Open-source AI game agent and Minecraft automation framework designed for embodied LLM agents to perceive game state, execute complex actions, and collaborate inside sandboxed worlds.*
 
-23. **[Packwiz](https://github.com/packwiz/packwiz)** [![GitHub stars](https://img.shields.io/github/stars/packwiz/packwiz?style=social&color=white)](https://github.com/packwiz/packwiz/stargazers) 📋  
+23. **[Packwiz](https://github.com/packwiz/packwiz)** [![GitHub_Stars](https://img.shields.io/github/stars/packwiz/packwiz?style=social&color=white)](https://github.com/packwiz/packwiz/stargazers) 📋  
     *Command-line tool (`MIT`) for creating and managing Minecraft modpacks using declarative TOML metadata and Git version control with native Modrinth export support.*
 
-24. **[MineRL](https://github.com/minerllabs/minerl)** [![GitHub stars](https://img.shields.io/github/stars/minerllabs/minerl?style=social&color=white)](https://github.com/minerllabs/minerl/stargazers) ⛏️  
+24. **[MineRL](https://github.com/minerllabs/minerl)** [![GitHub_Stars](https://img.shields.io/github/stars/minerllabs/minerl?style=social&color=white)](https://github.com/minerllabs/minerl/stargazers) ⛏️  
     *Reinforcement learning dataset and simulator platform for sample-efficient embodied agent learning in Minecraft (`MIT`). Host of the prestigious NeurIPS MineRL competition series.*
 
-25. **[MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib)** [![GitHub stars](https://img.shields.io/github/stars/GeyserMC/MCProtocolLib?style=social&color=white)](https://github.com/GeyserMC/MCProtocolLib/stargazers) 📡  
+25. **[MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib)** [![GitHub_Stars](https://img.shields.io/github/stars/GeyserMC/MCProtocolLib?style=social&color=white)](https://github.com/GeyserMC/MCProtocolLib/stargazers) 📡  
     *Simple, low-level Java library (`MIT`) facilitating the sending and receiving of Minecraft protocol packets for building custom bot clients and lightweight automated proxies.*
 
-26. **[ATLauncher](https://github.com/ATLauncher/ATLauncher)** [![GitHub stars](https://img.shields.io/github/stars/ATLauncher/ATLauncher?style=social&color=white)](https://github.com/ATLauncher/ATLauncher/stargazers) 🚀  
+26. **[ATLauncher](https://github.com/ATLauncher/ATLauncher)** [![GitHub_Stars](https://img.shields.io/github/stars/ATLauncher/ATLauncher?style=social&color=white)](https://github.com/ATLauncher/ATLauncher/stargazers) 🚀  
     *Established open-source (`GPL-3.0`) multi-platform launcher supporting Modrinth, CurseForge, and Technic modpacks with integrated server-creation tools.*
 
-27. **[Azalea](https://github.com/azalea-rs/azalea)** [![GitHub stars](https://img.shields.io/github/stars/azalea-rs/azalea?style=social&color=white)](https://github.com/azalea-rs/azalea/stargazers) 🌸  
+27. **[Azalea](https://github.com/azalea-rs/azalea)** [![GitHub_Stars](https://img.shields.io/github/stars/azalea-rs/azalea?style=social&color=white)](https://github.com/azalea-rs/azalea/stargazers) 🌸  
     *High-performance, async Minecraft bot library written in Rust (`MIT` / `Apache-2.0`). Designed for extreme concurrency, deterministic physics simulation, and low memory footprint.*
 
-28. **[mineflayer-pathfinder](https://github.com/PrismarineJS/mineflayer-pathfinder)** [![GitHub stars](https://img.shields.io/github/stars/PrismarineJS/mineflayer-pathfinder?style=social&color=white)](https://github.com/PrismarineJS/mineflayer-pathfinder/stargazers) 🗺️  
+28. **[mineflayer-pathfinder](https://github.com/PrismarineJS/mineflayer-pathfinder)** [![GitHub_Stars](https://img.shields.io/github/stars/PrismarineJS/mineflayer-pathfinder?style=social&color=white)](https://github.com/PrismarineJS/mineflayer-pathfinder/stargazers) 🗺️  
     *Configurable 3D A* pathfinding plugin for Mineflayer (`MIT`). Enables bots to navigate arbitrary terrain, place bridging blocks, dig obstacles, avoid hazards, and chase dynamic entities.*
 
 ---
@@ -166,7 +166,7 @@ Contributions are welcome to keep this ecosystem comprehensive, accurate, and up
 
 1. 🍴 **Fork** the repository.
 2. 🌿 Create your feature branch (`git checkout -b feature/new-game-ai-tool`).
-3. ✏️ Add or update entries following the formatting conventions (name, star badge, link, concise description).
+3. ✏️ Add or update entries following the formatting conventions (name, Stars_Badge, link, concise description).
 4. 📬 Submit a **Pull Request** with a brief summary of what you added and why.
 
 ---
