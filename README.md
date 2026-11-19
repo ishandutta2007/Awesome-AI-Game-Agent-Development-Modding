@@ -30,69 +30,29 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global AI in gaming and embodied virtual agent market is estimated at approximately $3.5B to $4.2B (projected to reach over $15B by 2030 at a ~25% CAGR). The sector remains **moderately fragmented**: core developer runtimes and NPC tools coexist across specialized generative AI agent startups and traditional game-modding distribution networks, while infrastructure and platform layers are contested by large engine providers and venture-backed platforms.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Modrinth](https://modrinth.com)**  
-
-  Modern, developer-friendly cloud platform for hosting, discovering, monetizing, and distributing Minecraft mods, plugins, shaders, and modpacks with a clean REST API and open-source client ecosystem.
-
-
-
-- **[CurseForge](https://curseforge.com)**  
-
-  Massive commercial cloud repository and mod-distribution platform spanning Minecraft, World of Warcraft, The Sims, and dozens of PC titles with automated dependency resolution.
-
-
-
-- **[Overwolf](https://overwolf.com)**  
-
-  Commercial desktop overlay, in-game app SDK, and mod-distribution ecosystem powering CurseForge and real-time game telemetry integrations.
-
-
-
-- **[Altera / Project Sid (Mineflayer Cloud)](https://altera.al)**  
-
-  Cloud autonomous AI agent civilization platform running thousands of LLM-driven agents inside persistent multiplayer Minecraft worlds with emergent social and economic behavior.
-
-
-
-- **[Inworld AI](https://inworld.ai)**  
-
-  Cloud AI character engine and game SDK enabling developers to embed contextual, memory-backed, voice-capable autonomous NPCs into Unity, Unreal Engine, and web games.
-
-
-
-- **[Convai](https://convai.com)**  
-
-  Cloud conversational AI and spatial action platform for game worlds allowing NPCs to perceive 3D environments, navigate scenes, and interact with players in real time.
-
-
-
-- **[Aternos / Exaroton / Apex Hosting](https://exaroton.com)**  
-
-  Cloud-hosted on-demand game server platforms offering one-click Fabric, PaperMC, Spigot, and NeoForge modpack deployments ideal for testing multi-agent environments.
-
-
-
-- **[MCreator Cloud / Planet Minecraft](https://mcreator.net)**  
-
-  Accessible visual mod-generation software and community cloud showcase enabling creators to rapidly prototype blocks, entities, and behaviors without deep Java boilerplate.
-
-
-
-
+| Platform | Valuation / Revenue Scale | Pricing (Starting Tier) | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Inworld AI](https://inworld.ai)** | **$500M+ valuation** (~$107M–$150M+ raised) | $25/month (Creator Tier) | **70 mins/mo free TTS**, 400 mins/mo free STT, 2,000 char TTS playground limit, 5 concurrent requests, up to 20 estimated concurrent sessions (On-Demand free plan). | Cloud AI character engine & SDK enabling contextual, memory-backed, voice-capable autonomous NPCs across Unity, Unreal Engine, and web runtimes. |
+| **[Overwolf](https://overwolf.com)** | **$250M–$500M valuation** (~$150M raised, $300M+ paid out to creators) | $2.50/month (CurseForge ad-free subscription) | **Full access free forever** to overlay apps, mod management, and mod downloads supported by banner/video ads. | Commercial desktop overlay, game app framework, and mod distribution ecosystem powering the CurseForge app and game telemetry integrations. |
+| **[CurseForge](https://curseforge.com)** | **Subsidiary of Overwolf** (Acquired for ~$10M–$15M; ecosystem processes $300M+ creator payouts) | $2.50/month (CurseForge Premium) | **Full mod browsing, auto-installation, and updates free forever** with ad-supported interface in app and web. | Commercial cloud mod repository and modpack distribution platform spanning Minecraft, World of Warcraft, and PC titles. |
+| **[Apex Hosting](https://apexminecrafthosting.com)** | **$40M+ annual revenue** (Acquired by Nitrado / marbis GmbH under Flex Capital) | $9.99/month ($7.49 first month for 2 GB basic plan) | **7-day money-back guarantee** (no permanent free tier; paid hosting infrastructure). | Enterprise game server hosting provider offering one-click Fabric, PaperMC, Spigot, and modpack deployments for multi-agent bot environments. |
+| **[Convai](https://convai.com)** | **~$6.5M annual revenue** (Venture-backed by Rainfall Ventures & Mountain View Capital) | $29/month ($22/mo billed annually for Indie Dev) | **100 interactions/month**, 60 mins Cloud Rendered Avatar Studio & Convai Sim, and 1 character session concurrency free forever. | Cloud conversational AI and spatial reasoning platform enabling NPCs to perceive 3D environments, navigate scenes, and interact with players. |
+| **[Altera / Project Sid](https://altera.al)** | **$11.1M total funding** ($9M Seed led by Patron & First Spark Ventures; ~$40M estimated seed valuation) | Developer / Research API access (waitlist / pilot pricing) | **Free open-source research access** to papers/benchmarks and closed beta companion waitlist access. | Cloud autonomous AI agent civilization platform running multi-agent LLM simulations inside persistent Minecraft worlds with emergent economic behavior. |
+| **[Modrinth](https://modrinth.com)** | **$1.2M seed funding** (Acquired by Spark Universe in 2026; Adrinth monetization) | $4.99/month (Modrinth+ ad-free / cosmetic tier; Modrinth server hosting starts at $5/mo) | **Unlimited free downloads, modpack creation, and mod hosting forever** (funded via Adrinth advertisements). | Modern, developer-friendly open platform for hosting, discovering, monetizing, and distributing Minecraft mods and modpacks via REST API. |
+| **[exaroton](https://exaroton.com)** | **Bootstrapped / Profitable SME** (Operated by Aternos GmbH) | €0.01 per GB RAM/hour (~€7.20/mo for 1 GB continuous 24/7) | **5 free credits (€0.05 value)** on signup to test servers without a credit card; sister service **Aternos** provides 100% free ad-supported servers (dynamic 2–4 GB RAM, 4 GB storage cap, queue-based startup, auto-sleep). | Pay-per-minute cloud Minecraft server platform with fast sleep/wake automation and custom modpack/bot support. |
+| **[MCreator / Pylo](https://mcreator.net)** | **Independent / Bootstrapped SME** (Pylo UG; community-funded) | €10/month (Patreon Supporter Tier for priority builds) | **100% free and open-source software (GPL v3)** with unlimited local mod and datapack generation; optional community cloud showcase. | Visual mod-creation and prototyping IDE enabling developers to build custom entities, behaviors, blocks, and dimensions without deep Java boilerplate. |
 
 ## Open-Source GitHub Projects
 
